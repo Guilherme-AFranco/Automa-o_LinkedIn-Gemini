@@ -1,0 +1,3 @@
+A400M	https://www.linkedin.com/search/results/content/?datePosted=%22past-week%22&keywords=%22a400m%22&origin=FACETED_SEARCH&sid=fI0&sortBy=%22date_posted%22
+C-130	https://www.linkedin.com/search/results/content/?datePosted=%22past-24h%22&keywords=%22c130%22&origin=GLOBAL_SEARCH_HEADER&sid=(!G&sortBy=%22date_posted%22
+Defense aerospace	https://www.linkedin.com/search/results/content/?datePosted=%22past-24h%22&keywords=%22defense%20aerospace%22&origin=GLOBAL_SEARCH_HEADER&sid=8jM&sortBy=%22date_posted%22
