@@ -4,7 +4,7 @@
     "openai": "^4.52.7",
     "puppeteer": "^10.4.0"
   },
-  "name": "embraer",
+  "name": "pasta",
   "version": "1.0.0",
   "main": "GPT.js",
   "type": "module",
